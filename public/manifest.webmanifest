@@ -1,0 +1,17 @@
+{
+  "name": "الديوان - أرشيف وتاريخ القبائل العربية",
+  "short_name": "الديوان",
+  "description": "منصة عربية متكاملة للأرشيف، الأنساب، الكتب والمجتمعات التاريخية.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#00b27a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
